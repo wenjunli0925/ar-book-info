@@ -1,1 +1,1 @@
-# ar-book-info
+# ar-learning-material
