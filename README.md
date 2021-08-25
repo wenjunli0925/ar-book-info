@@ -1,1 +1,1 @@
-# ar-learning-material
+# ar-interactive-learning-material
